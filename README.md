@@ -11,6 +11,11 @@ Models were created in 3D Studio 4 (for MS-DOS) and exported in a simple ASCII f
 
 I'll try to find the original compiler, fix the codebase up a little bit, and recompile it with a bit more options, because why not?
 
+## Running it
+
+Just run ./BIN/SHOWASC.EXE and a path to an .ASC model, as shown below:
+![Console](https://i.imgur.com/idtzbxS.png)
+
 ## Screenshots
 
 ### Flat Shading:
